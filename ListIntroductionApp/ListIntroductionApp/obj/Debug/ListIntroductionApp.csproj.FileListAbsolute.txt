@@ -1,0 +1,6 @@
+D:\SEIP Project (.NET)\Batch 02\31.03.2015\ListIntroductionApp\ListIntroductionApp\bin\Debug\ListIntroductionApp.exe.config
+D:\SEIP Project (.NET)\Batch 02\31.03.2015\ListIntroductionApp\ListIntroductionApp\bin\Debug\ListIntroductionApp.exe
+D:\SEIP Project (.NET)\Batch 02\31.03.2015\ListIntroductionApp\ListIntroductionApp\bin\Debug\ListIntroductionApp.pdb
+D:\SEIP Project (.NET)\Batch 02\31.03.2015\ListIntroductionApp\ListIntroductionApp\obj\Debug\ListIntroductionApp.csprojResolveAssemblyReference.cache
+D:\SEIP Project (.NET)\Batch 02\31.03.2015\ListIntroductionApp\ListIntroductionApp\obj\Debug\ListIntroductionApp.exe
+D:\SEIP Project (.NET)\Batch 02\31.03.2015\ListIntroductionApp\ListIntroductionApp\obj\Debug\ListIntroductionApp.pdb
